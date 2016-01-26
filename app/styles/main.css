@@ -1,0 +1,52 @@
+
+   table, td {
+    
+        margin: auto;
+        
+        border-collapse: collapse;
+        width: 500px;
+        text-align: center; 
+        
+    
+      }
+    
+      #verde{background-color: #008000;
+      border-radius: 400px 0px 0px 0px;
+      -moz-border-radius: 400px 0px 0px 0px;
+      -webkit-border-radius: 400px 0px 0px 0px;
+        
+      }
+      #verde:hover{
+        background-color:#99FF00;}
+    
+      #amarillo{background-color: #FFFF99;
+      border-radius: 0px 400px 0px 0px;
+      -moz-border-radius: 0px 400px 0px 0px;
+      -webkit-border-radius: 0px 400px 0px 0px;
+  
+      }
+      #amarillo:hover{
+        background-color: #FFFF00;}
+      
+      #azul{background-color: #0000CD;
+      border-radius: 0px 0px 0px 400px;
+      -moz-border-radius: 0px 0px 0px 400px;
+      -webkit-border-radius: 0px 0px 0px 400px;
+        
+      }
+      #azul:hover{
+        background-color: #66FFFF;}
+      
+      #rojo{background-color: #CC0000;
+      border-radius: 0px 0px 400px 0px;
+      -moz-border-radius: 0px 0px 400px 0px;
+      -webkit-border-radius: 0px 0px 400px 0px;
+      }
+      
+      #rojo:hover{
+        background-color: #FF0000;}
+      td {
+        padding: 100px;
+      }   
+    
+    
